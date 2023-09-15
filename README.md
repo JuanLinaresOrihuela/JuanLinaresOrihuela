@@ -11,13 +11,6 @@
 - 📫 How to reach me: LinkedIn!
 - ⚡ Fun fact: I love playing soccer ⚽️ and volleyball 🏐
 
-
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/juanlinaresorihuela/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right: 10px; width: 24px;" />
-</a>
-
 I am on a mission to become a software engineer dedicated to crafting innovative solutions that tackle everyday challenges and simplify lives. My passion lies in iOS Development, where I get to blend my creativity and technical skills to create amazing user experiences.
 
 Currently, I'm juggling a busy schedule, balancing coursework, and a full-time teaching job while pursuing my dream of becoming a software engineer. In my pursuit of excellence, I've embarked on an exciting journey by enrolling in the prestigious Full Stack JavaScript Bootcamp at Grand Circus in Detroit, Michigan. This intensive program is helping me master the skills required to build robust, end-to-end web applications.
@@ -36,6 +29,14 @@ On this GitHub profile, you'll find a showcase of my projects, contributions, an
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+
+
+### Connect with me:
+
+<a href="https://www.linkedin.com/in/juanlinaresorihuela/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right: 10px; width: 24px;" />
+</a>
+
 
 
 
