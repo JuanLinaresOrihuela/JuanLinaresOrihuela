@@ -10,7 +10,21 @@ But that's not all! I love a good challenge, which is why I'm currently competin
 
 On this GitHub profile, you'll find a showcase of my projects, contributions, and the evolution of my skills as I work toward my goal of becoming a top-notch software engineer. Feel free to explore and connect with me as I embark on this exciting journey of learning, coding, and making a positive impact on the world through technology. Let's innovate together! 💻🌟 
 
-Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Full Stack JavaScript Bootcamp @Grand Circus
+- 🌱 I’m currently learning JavaScript, iOS Development, and PHP.
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with connecting with job opportunities.
+- 💬 Ask me about travel and learning.
+- 📫 How to reach me: LinkedIn!
+- ⚡ Fun fact: I love playing soccer ⚽️ and volleyball 🏐
+
+
+### Connect with me:
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
@@ -23,18 +37,5 @@ Here are some ideas to get you started:
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 
-### Connect with me:
-[!link [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-dark-mode-only)
-&nbsp;&nbsp;]
-[!link [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-light-mode-only)
-&nbsp;&nbsp;
 
-
-- 🔭 I’m currently working on Full Stack JavaScript Bootcamp @Grand Circus
-- 🌱 I’m currently learning JavaScript, iOS Development, and PHP.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with connecting with job opportunities.
-- 💬 Ask me about travel and learning.
-- 📫 How to reach me: LinkedIn!
-- ⚡ Fun fact: I love playing soccer ⚽️ and volleyball 🏐
 
