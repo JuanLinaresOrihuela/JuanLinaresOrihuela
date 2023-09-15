@@ -1,4 +1,4 @@
-#### Juan Linares Orihuela 👋
+# Juan Linares Orihuela 👋
 
 **Computer Science Student (Developer)**
 
