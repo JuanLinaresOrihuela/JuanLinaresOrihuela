@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Full Stack JavaScript Bootcamp @Grand Circus
 - 🌱 I’m currently learning JavaScript, iOS Development, and PHP.
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Mobile Development projects.
 - 🤔 I’m looking for help with connecting with job opportunities.
 - 💬 Ask me about travel and learning.
 - 📫 How to reach me: LinkedIn!
