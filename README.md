@@ -21,10 +21,10 @@ On this GitHub profile, you'll find a showcase of my projects, contributions, an
 
 
 ### Connect with me:
-&nbsp;&nbsp;
+
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-dark-mode-only)
-&nbsp;&nbsp;
+
 
 ### Languages and Tools:
 
