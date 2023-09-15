@@ -1,6 +1,6 @@
 ### Juan Linares Orihuela 👋
 
-**'Computer Science Student (Developer)'**
+**Computer Science Student (Developer)**
 
 I am on a mission to become a software engineer dedicated to crafting innovative solutions that tackle everyday challenges and simplify lives. My passion lies in iOS Development, where I get to blend my creativity and technical skills to create amazing user experiences.
 
@@ -22,9 +22,8 @@ On this GitHub profile, you'll find a showcase of my projects, contributions, an
 
 ### Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlinaresorihuela#gh-dark-mode-only)
-
+[![LinkedIn (Light Mode)](./img/linkedin-light.svg)](https://www.linkedin.com/in/juanlinaresorihuela/)
+[![LinkedIn (Dark Mode)](./img/linkedin-dark.svg)](https://www.linkedin.com/in/juanlinaresorihuela/)
 
 ### Languages and Tools:
 
