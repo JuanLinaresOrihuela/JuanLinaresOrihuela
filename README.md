@@ -5,10 +5,9 @@
 
 - 🔭 I’m currently working on Full Stack JavaScript Bootcamp @Grand Circus
 - 🌱 I’m currently learning JavaScript, iOS Development, and PHP.
-- 👯 I’m looking to collaborate on Mobile Development projects.
-- 🤔 I’m looking for help with connecting with job opportunities.
+- 👨🏾‍💻 I’m looking to collaborate on Mobile Development projects.
+- 🤝🏾 I’m looking for help with connecting with job opportunities.
 - 💬 Ask me about travel and learning.
-- 📫 How to reach me: LinkedIn!
 - ⚡ Fun fact: I love playing soccer ⚽️ and volleyball 🏐
 
 I am on a mission to become a software engineer dedicated to crafting innovative solutions that tackle everyday challenges and simplify lives. My passion lies in iOS Development, where I get to blend my creativity and technical skills to create amazing user experiences.
