@@ -14,7 +14,9 @@
 
 ### Connect with me:
 
-<a href="https://www.linkedin.com/in/juanlinaresorihuela/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right: 10px;" /> </a>
+<a href="https://www.linkedin.com/in/juanlinaresorihuela/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right: 10px; width: 24px;" />
+</a>
 
 I am on a mission to become a software engineer dedicated to crafting innovative solutions that tackle everyday challenges and simplify lives. My passion lies in iOS Development, where I get to blend my creativity and technical skills to create amazing user experiences.
 
