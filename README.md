@@ -10,13 +10,11 @@
 - 💬 Ask me about travel and learning.
 - ⚡ Fun fact: I love playing soccer ⚽️ and volleyball 🏐
 
-I am on a mission to become a software engineer dedicated to crafting innovative solutions that tackle everyday challenges and simplify lives. My passion lies in iOS Development, where I get to blend my creativity and technical skills to create amazing user experiences.
+I'm on a mission to become a software engineer specializing in iOS Development, where I blend creativity and technical skills to craft user-friendly solutions. Amidst a busy schedule balancing coursework and a full-time teaching job, I'm enrolled in the Full Stack JavaScript Bootcamp at Grand Circus in Detroit, honing my skills for building comprehensive web applications.
 
-Currently, I'm juggling a busy schedule, balancing coursework, and a full-time teaching job while pursuing my dream of becoming a software engineer. In my pursuit of excellence, I've embarked on an exciting journey by enrolling in the prestigious Full Stack JavaScript Bootcamp at Grand Circus in Detroit, Michigan. This intensive program is helping me master the skills required to build robust, end-to-end web applications.
+I also thrive on challenges, currently competing at HackMIT and gearing up for HackHarvard. These hackathons not only fuel my passion but also offer opportunities to collaborate with brilliant minds worldwide.
 
-But that's not all! I love a good challenge, which is why I'm currently competing at HackMIT and gearing up for another thrilling competition at HackHarvard in the coming weeks. These hackathons not only fuel my passion for coding but also allow me to collaborate with brilliant minds from around the world to create innovative solutions.
-
-On this GitHub profile, you'll find a showcase of my projects, contributions, and the evolution of my skills as I work toward my goal of becoming a top-notch software engineer. Feel free to explore and connect with me as I embark on this exciting journey of learning, coding, and making a positive impact on the world through technology. Let's innovate together! 💻🌟 
+This GitHub showcases my evolving skills and projects as I work towards becoming a software engineer. Let's innovate together! 💻🌟
 
 ### Languages and Tools:
 
@@ -28,7 +26,6 @@ On this GitHub profile, you'll find a showcase of my projects, contributions, an
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="30px" src="https://icons8.com/icon/TUk7vxvtu6hX/chatgpt" style="padding-right:10px;" />
 
 <br /> 
 
