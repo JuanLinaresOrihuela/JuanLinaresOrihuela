@@ -8,7 +8,7 @@
 - 👨🏾‍💻 I’m looking to collaborate on Mobile Development projects.
 - 🤝🏾 I’m looking for help with connecting with job opportunities.
 - 💬 Ask me about travel and learning.
-- ⚡ Fun fact: I love playing soccer ⚽️ and volleyball 🏐
+- ⚡ Fun fact: I love playing soccer ⚽️, volleyball 🏐, and cycling 🚴🏾
 
 I'm on a mission to become a software engineer specializing in iOS Development, where I blend creativity and technical skills to craft user-friendly solutions. Amidst a busy schedule balancing coursework and a full-time teaching job, I'm enrolled in the Full Stack JavaScript Bootcamp at Grand Circus in Detroit, honing my skills for building comprehensive web applications.
 
