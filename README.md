@@ -3,14 +3,14 @@
 **Computer Science Student (Developer)**
 
 
-- 🔭 I’m currently working on Full Stack JavaScript Bootcamp @Grand Circus
+- 🔭 I’m currently working on Full Stack JavaScript Bootcamp at Grand Circus and iOS Development with CodePath.
 - 🌱 I’m currently learning JavaScript, iOS Development, and PHP.
 - 👨🏾‍💻 I’m looking to collaborate on Mobile Development projects.
 - 🤝🏾 I’m looking for help with connecting with learning opportunities.
 - 💬 Ask me about travel and learning.
 - ⚡ Fun fact: I love playing soccer ⚽️, volleyball 🏐, and cycling 🚴🏾
 
-I'm on a mission to become a software engineer specializing in iOS Development, where I blend creativity and technical skills to craft user-friendly solutions. Amidst a busy schedule balancing coursework and a full-time teaching job, I'm enrolled in the Full Stack JavaScript Bootcamp at Grand Circus in Detroit, honing my skills for building comprehensive web applications.
+I'm on a mission to become a software developer, where I blend my creativity and technical skills to craft user-friendly solutions. Amidst a busy schedule balancing coursework and a full-time teaching job, I'll be part of the Full Stack JavaScript Bootcamp cohort at Grand Circus in Detroit, honing my skills for building comprehensive web applications.
 
 I also thrive on challenges, currently competing at HackMIT and gearing up for HackHarvard. These hackathons not only fuel my passion but also offer opportunities to collaborate with brilliant minds worldwide.
 
