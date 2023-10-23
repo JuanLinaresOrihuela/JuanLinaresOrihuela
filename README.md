@@ -12,8 +12,6 @@
 
 I'm on a mission to become a software developer, where I blend my creativity and technical skills to craft user-friendly solutions. Amidst a busy schedule balancing coursework and a full-time teaching job, I'll be part of the Full Stack JavaScript Bootcamp cohort at Grand Circus in Detroit, honing my skills for building comprehensive web applications.
 
-I'll be at HackHarvard 2023. 
-
 This GitHub showcases my evolving skills and projects as I work towards becoming a software developer. Let's innovate together! 💻🌟
 
 ### Languages and Tools:
