@@ -3,7 +3,7 @@
 **Full Stack JavaScript Bootcamp & Computer Science Student**
 
 
-- 🔭 Currently working on Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
+- 🔭 Working on the Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
 - 🌱 Currently learning JavaScript, iOS Development, and PHP.
 - 👨🏾‍💻 Looking to collaborate on Mobile Development projects.
 - 🤝🏾 Looking for help with connecting with learning opportunities.
