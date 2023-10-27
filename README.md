@@ -3,10 +3,10 @@
 **Computer Science Student (Developer)**
 
 
-- 🔭 I’m currently working on Full Stack JavaScript Bootcamp at Grand Circus and iOS Development with CodePath.
-- 🌱 I’m currently learning JavaScript, iOS Development, and PHP.
-- 👨🏾‍💻 I’m looking to collaborate on Mobile Development projects.
-- 🤝🏾 I’m looking for help with connecting with learning opportunities.
+- 🔭 Currently working on Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
+- 🌱 Currently learning JavaScript, iOS Development, and PHP.
+- 👨🏾‍💻 Looking to collaborate on Mobile Development projects.
+- 🤝🏾 Looking for help with connecting with learning opportunities.
 - 💬 Ask me about travel and learning.
 - ⚡ Fun fact: I love playing soccer ⚽️, volleyball 🏐, and cycling 🚴🏾
 
