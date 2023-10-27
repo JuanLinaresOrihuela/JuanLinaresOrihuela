@@ -1,6 +1,6 @@
 # Juan Linares Orihuela 👋🏾
 
-**Computer Science Student (Developer)**
+**Full Stack JavaScript Bootcamp & Computer Science Student**
 
 
 - 🔭 Currently working on Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
