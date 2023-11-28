@@ -4,13 +4,12 @@
 
 
 - 🔭 Working on the Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
-- 🌱 Currently learning JavaScript, iOS Development, and PHP.
+- 🌱 Currently learning JavaScript, and Python.
 - 👨🏾‍💻 Looking to collaborate on Mobile Development projects.
 - 🤝🏾 Looking for help with connecting with learning opportunities.
-- 💬 Ask me about travel and learning.
 - ⚡ Fun fact: I love playing soccer ⚽️, volleyball 🏐, and cycling 🚴🏾
 
-This GitHub showcases my evolving skills and projects as I work towards becoming a software engineer. 💻🌟
+This GitHub showcases my evolving skills and projects as I work towards becoming a Software Engineer. 💻🌟
 
 ### Languages and Tools:
 
