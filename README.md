@@ -4,10 +4,8 @@ Full Stack JavaScript Bootcamp
 
 
 - 🔭 Working on the Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
-- 🌱 Currently learning JavaScript, and Python.
-- 👨🏾‍💻 Looking to collaborate on Mobile Development projects.
+- 🌱 Currently learning JavaScript, Python, and ROS2 (Robotics Operating System)
 - 🤝🏾 Looking for help with connecting with learning opportunities.
-- ⚡ Fun fact: I love playing soccer ⚽️, volleyball 🏐, and cycling 🚴🏾
 
 This GitHub showcases my evolving skills and projects as I work towards becoming a Software Engineer. 💻🌟
 
