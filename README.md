@@ -4,7 +4,7 @@ Full Stack JavaScript Bootcamp
 
 
 - 🔭 Working on the Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
-- 🌱 Currently learning JavaScript, Python, and ROS2 (Robotics Operating System)
+- 🌱 Currently working with JavaScript, Python, and ROS2 (Robotics Operating System)
 - 🤝🏾 Looking for help with connecting with learning opportunities.
 
 This GitHub showcases my evolving skills and projects as I work towards becoming a Software Engineer. 💻🌟
