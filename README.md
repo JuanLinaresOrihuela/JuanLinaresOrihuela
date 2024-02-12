@@ -1,6 +1,6 @@
 # Juan Linares Orihuela 👋🏾
 
-- 🔭 Working on the Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
+- 🔭 Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
 - 🌱 Currently working with JavaScript, Python, and ROS2 (Robotics Operating System)
 - 🤝🏾 Looking for new learning opportunities.
 
