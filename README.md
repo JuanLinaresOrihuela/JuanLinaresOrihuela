@@ -4,8 +4,6 @@
 - 🌱 Currently working with JavaScript, Python, and ROS2 (Robotics Operating System)
 - 🤝🏾 Looking for new learning opportunities.
 
-This GitHub showcases my evolving skills and projects as I work towards becoming a Software Engineer. 💻🌟
-
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
