@@ -1,8 +1,9 @@
 # Juan Linares Orihuela 👋🏾
 
-- 🔭 Full Stack JavaScript Bootcamp at Grand Circus, Detroit.
-- 🌱 Currently working with JavaScript, Python, and ROS2 (Robotics Operating System)
-- 🤝🏾 Looking for new learning opportunities.
+- 🏡 Based in Ypsilanti, Michigan.
+- 🔭 Full Stack JavaScript Bootcamp Graduate.
+- 🌱 Currently working with JavaScript, TypeScript, Python, and ROS2 (Robotics Operating System)
+- 🤝🏾 Always looking for new learning opportunities.
 
 ### Languages and Tools:
 
