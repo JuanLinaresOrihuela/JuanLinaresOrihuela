@@ -1,6 +1,7 @@
 # Juan Linares Orihuela 👋🏾
 
 🌱 Currently working with JavaScript, TypeScript, Python, and ROS2 (Robotics Operating System)
+
 🤝🏾 Always looking for new learning opportunities.
 
 ### Languages and Tools:
