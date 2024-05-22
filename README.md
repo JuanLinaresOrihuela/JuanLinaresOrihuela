@@ -1,9 +1,7 @@
 # Juan Linares Orihuela 👋🏾
 
-- 🏡 Based in Ypsilanti, Michigan.
-- 🔭 Full Stack JavaScript Bootcamp Graduate.
-- 🌱 Currently working with JavaScript, TypeScript, Python, and ROS2 (Robotics Operating System)
-- 🤝🏾 Always looking for new learning opportunities.
+🌱 Currently working with JavaScript, TypeScript, Python, and ROS2 (Robotics Operating System)
+🤝🏾 Always looking for new learning opportunities.
 
 ### Languages and Tools:
 
