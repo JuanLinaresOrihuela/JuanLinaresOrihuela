@@ -27,8 +27,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="padding-right: 10px; width: 30px;" />
 </a>
 
-https://www.juanlinaresorihuela.com/
-
 
 
 
