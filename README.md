@@ -2,7 +2,7 @@
 
 🌱 Currently working with JavaScript, TypeScript, Python, and ROS2 (Robotics Operating System)
 
-🤝🏾 Always looking for new learning opportunities. Feel free to visit my <a href="https://www.juanlinaresorihuela.com/">site!</a>
+🤝🏾 Always looking for new learning opportunities. Feel free to visit my <a href="https://www.juanlinaresorihuela.com/">site</a>!
 
 ### Languages and Tools:
 
